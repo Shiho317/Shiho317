@@ -9,6 +9,8 @@
 - 👤 Pronouns: She/Her
 - 🤩 Fun fact: I'm good at baking.🥐
 
+<br/>
+
 **My github stats:**
 
 <a href="https://github.com/Shiho317">
@@ -17,6 +19,8 @@
 <a href="https://github.com/Shiho317">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiho317&show_icons=true&theme=light&line_height=27" alt="Shiho's github stats" />
 </a>
+
+<br/>
 
 **Connect with me:**
 
