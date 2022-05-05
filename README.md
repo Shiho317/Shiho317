@@ -1,13 +1,13 @@
 ### Hi. I'm Shiho Nagano.
-## A front-end developer who is based in Canada.:Canada:
+## A front-end developer who is based in Canada.🇨🇦
 
-- :woman_running: I'm currently working on [SUKI SUSHI](https://github.com/Shiho317/Sushi-app). :sushi:
-- :laptop: I'm currently learning more about `React` and `Node.js`.
-- :beaming_face_with_smiling_eyes: To get know about me more, visit [My Portfolio Website](https://shiho-nagano.com/).
-- :blue_book: All of my projects are showed in [My works page](https://shiho-nagano.com/work).
-- :closed_mailbox_with_raised_flag: How to reach me: [LinkedIn](https://www.linkedin.com/in/shiho-nagano-b7518b21b), [Email](mailto:shihonagano9797@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
-- :bust_in_silhouette: Pronouns: Shi/Her
-- :clown_face: Fun fact: I'm good at baking. :croissant:
+- 🏃🏻‍♀️ I'm currently working on [SUKI SUSHI](https://github.com/Shiho317/Sushi-app).🍣
+- 💻 I'm currently learning more about `React` and `Node.js`.
+- 😄 To get know about me more, visit [My Portfolio Website](https://shiho-nagano.com/).
+- 📒 All of my projects are showed in [My works page](https://shiho-nagano.com/work).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shiho-nagano-b7518b21b), [Email](mailto:shihonagano9797@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 👤 Pronouns: Shi/Her
+- 🤩 Fun fact: I'm good at baking.🥐
 
 **Language and Tools:**
 
