@@ -1,4 +1,4 @@
-## Hi. I'm Shiho Nagano.
+## Hi. I'm Shiho Nagano.👋
 ### A front-end developer who is based in Canada.🇨🇦
 
 - 🏃🏻‍♀️ I'm currently working on [SUKI SUSHI](https://github.com/Shiho317/Sushi-app).🍣
@@ -18,7 +18,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shiho317&show_icons=true&theme=light&line_height=27" alt="Shiho's github stats" />
 </a>
 
-**Connect me**
+**Connect with me:**
 
 <a href="https://www.linkedin.com/in/shiho-nagano-b7518b21b">
   <img align="left" alt="Shiho's linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
