@@ -1,7 +1,7 @@
 ## Hi. I'm Shiho Nagano.👋
 ### A front-end developer who is based in Canada.🇨🇦
 
-- 🏃🏻‍♀️ I'm currently working on [Trello clone](https://github.com/Shiho317/Trello).🗓
+- 🏃🏻‍♀️ I'm currently working on [Trello Board](https://github.com/Shiho317/Trello).🗓
 - 💻 I'm currently learning more about `React` and `Node.js`.
 - 😄 To get know about me more, visit [My Portfolio Website](https://shiho-nagano.com/).
 - 📒 All of my projects are showed in [My works page](https://shiho-nagano.com/work).
