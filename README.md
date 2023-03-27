@@ -1,8 +1,7 @@
 ## Hi. I'm Shiho Nagano.👋
 ### A front-end developer who is based in Canada.🇨🇦
 
-- 🏃🏻‍♀️ I'm currently working on [Empowered Futures](https://www.empoweredfutures.ca/).💡
-- 💻 I'm currently learning more about `React` and `Node.js`.
+- 💻 I'm currently learning more about `Typescript` and `React`.
 - 😄 To get know about me more, visit [My Portfolio Website](https://shiho-nagano.com/).
 - 📒 All of my projects are showed in [My works page](https://shiho-nagano.com/work).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/shiho-nagano-b7518b21b), [Email](mailto:shihonagano9797@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
