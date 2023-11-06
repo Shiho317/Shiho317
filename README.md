@@ -1,5 +1,5 @@
 ## Hi. I'm Shiho Nagano.👋
-### A front-end developer who is based in Canada.🇨🇦
+### A Full Stack Developer who is based in Canada.🇨🇦
 
 - 💻 I'm currently learning more about `Typescript` and `React`.
 - 😄 To get know about me more, visit [My Portfolio Website](https://shiho-nagano.com/).
